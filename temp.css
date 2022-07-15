@@ -274,7 +274,8 @@ aside{
     aside{
         
         width: 100%;
-        margin: auto;
+        margin-top: 20px;
+        margin-left: 0px;
     }
    }
    @media screen and (max-width:340px) {
